@@ -1,9 +1,6 @@
 # PASSWORD---STRENGTH---ANALYZER
--webkit-transition: width .6s ease;
-transition: width .6s ease;
 
-
-> **Note:** This analyzer uses Shannon Entropy to calculate the mathematical complexity of your password in real-time.
+![password gif](https://github.com/user-attachments/assets/cf0b9094-5381-4660-a74b-215d1627b6ea)
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
